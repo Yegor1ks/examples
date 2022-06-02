@@ -1,5 +1,0 @@
-Petrov Oleg;swimmer;1;10;1;2;Super
-Anna Ermolovich;swimmer;1;1;1;1;Super
-Rob Gasser;baseball;3;2;3;4;Only win
-Martin Garrix;football;1;5;2;1;Only win
-Marck Pegboard;cybersport;0;10;0;0;RatSports
