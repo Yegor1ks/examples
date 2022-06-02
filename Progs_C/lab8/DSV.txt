@@ -1,0 +1,7 @@
+Ivan Ivanov;leo;22;10;2000
+Sasha Aleksandrovna;leo;13;10;2001
+Gregor Gregorov;libra;01;01;2001
+Aleksei Alekseev;aquarius;10;09;1999
+Henry Henrov;libra;02;01;2001
+Aleksei Andreev;leo;30;11;2000
+Ann Widney;libra;22;04;1998
